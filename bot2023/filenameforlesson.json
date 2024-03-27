@@ -1,0 +1,33 @@
+{
+    "name": "Andrey",
+    "info_about_page": "Games",
+    "games": [
+        {
+            "id": 0,
+            "name": "Fortnite",
+            "genre": [
+                "shooter",
+                "battle-royale",
+                "cartoon graphics",
+                "third person"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Counter Strike Global Offensive",
+            "genre": [
+                "shooter",
+                "first person"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "GtaVI",
+            "genre": [
+                "rp",
+                "first person",
+                "rpg"
+            ]
+        }
+    ]
+}
